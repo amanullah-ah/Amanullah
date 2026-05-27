@@ -1,0 +1,14 @@
+# ═══════════════════════════════════════
+# robots.txt — Aman ULLAHUllah 24
+# Aman Ullah Portfolio
+# ═══════════════════════════════════════
+
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://amanullah24.com/sitemap.xml
+
+# Block unnecessary files
+Disallow: /images/
+Disallow: /*.json$

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- ═══════════════════════════════════
+       MAIN PAGE
+  ═══════════════════════════════════ -->
+  <url>
+    <loc>https://amanullah24.com/</loc>
+    <lastmod>2025-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+
+    <!-- Gallery Images for Google Image Search -->
+    <image:image>
+      <image:loc>https://amanullah24.com/images/photo1.jpg</image:loc>
+      <image:title>Aman Ullah - Aman Ullah Visuals Portfolio Photo 1</image:title>
+      <image:caption>Creative Visual Artist Aman Ullah from Bhakkar Pakistan</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amanullah24.com/images/photo2.jpg</image:loc>
+      <image:title>Aman Ullah - Aman Ullah Visuals Portfolio Photo 2</image:title>
+      <image:caption>Creative Visual Artist Aman Ullah from Bhakkar Pakistan</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amanullah24.com/images/photo3.jpg</image:loc>
+      <image:title>Aman Ullah - Aman Ullah Visuals Portfolio Photo 3</image:title>
+      <image:caption>Creative Visual Artist Aman Ullah from Bhakkar Pakistan</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amanullah24.com/images/photo4.jpg</image:loc>
+      <image:title>Aman Ullah - Aman Ullah Visuals Portfolio Photo 4</image:title>
+      <image:caption>Creative Visual Artist Aman Ullah from Bhakkar Pakistan</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amanullah24.com/images/photo5.jpg</image:loc>
+      <image:title>Aman Ullah - Aman Ullah Visuals Portfolio Photo 5</image:title>
+      <image:caption>Creative Visual Artist Aman Ullah from Bhakkar Pakistan</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amanullah24.com/images/photo6.jpg</image:loc>
+      <image:title>Aman Ullah - Aman Ullah Visuals Portfolio Photo 6</image:title>
+      <image:caption>Creative Visual Artist Aman Ullah from Bhakkar Pakistan</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amanullah24.com/images/photo7.jpg</image:loc>
+      <image:title>Aman Ullah - Aman Ullah Visuals Portfolio Photo 7</image:title>
+      <image:caption>Creative Visual Artist Aman Ullah from Bhakkar Pakistan</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amanullah24.com/images/photo8.jpg</image:loc>
+      <image:title>Aman Ullah - Aman Ullah Visuals Portfolio Photo 8</image:title>
+      <image:caption>Creative Visual Artist  Aman Ullah from Bhakkar Pakistan</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amanullah24.com/images/photo9.jpg</image:loc>
+      <image:title> Aman Ullah - Aman Ullah Visuals Portfolio Photo 9</image:title>
+      <image:caption>Creative Visual Artist  Aman Ullah from Bhakkar Pakistan</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amanullah24.com/images/photo10.jpg</image:loc>
+      <image:title> Aman Ullah - Aman Ullah Visuals Portfolio Photo 10</image:title>
+      <image:caption>Creative Visual Artist  Aman Ullah from Bhakkar Pakistan</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amanullah24.com/images/photo11.jpg</image:loc>
+      <image:title> Aman Ullah - Aman Ullah Visuals Portfolio Photo 11</image:title>
+      <image:caption>Creative Visual Artist  Aman Ullah from Bhakkar Pakistan</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amanullah24.com/images/photo12.jpg</image:loc>
+      <image:title> Aman Ullah - Aman Ullah Visuals Portfolio Photo 12</image:title>
+      <image:caption>Creative Visual Artist  Aman Ullah from Bhakkar Pakistan</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amanullah24.com/images/photo13.jpg</image:loc>
+      <image:title> Aman Ullah - Aman Ullah Visuals Portfolio Photo 13</image:title>
+      <image:caption>Creative Visual Artist  Aman Ullah from Bhakkar Pakistan</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amanullah24.com/images/photo14.jpg</image:loc>
+      <image:title> Aman Ullah - Aman Ullah Visuals Portfolio Photo 14</image:title>
+      <image:caption>Creative Visual Artist  Aman Ullah from Bhakkar Pakistan</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amanullah24.com/images/photo15.jpg</image:loc>
+      <image:title> Aman Ullah - Aman Ullah Visuals Portfolio Photo 15</image:title>
+      <image:caption>Creative Visual Artist Aman Ullah from Bhakkar Pakistan</image:caption>
+    </image:image>
+
+  </url>
+
+</urlset>
